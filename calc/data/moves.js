@@ -2430,7 +2430,7 @@ var SM_PATCH = {
     },
     'Corkscrew Crash': { bp: 1, type: 'Steel', category: 'Physical', isZ: true },
     'Devastating Drake': { bp: 1, type: 'Dragon', category: 'Physical', isZ: true },
-    'Double Iron Bash': {
+    'Dual Cacti Bash': {
         bp: 40,
         type: 'Grass',
         multihit: 2,
@@ -2440,7 +2440,7 @@ var SM_PATCH = {
         secondaries: true,
         zp: 180
     },
-    'Dual Cacti Bash': {
+    'Double Iron Bash': {
         bp: 60,
         type: 'Steel',
         multihit: 2,
